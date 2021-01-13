@@ -1,6 +1,11 @@
 body{
     font-family: 'Roboto', sans-serif;
 }
-.container{
+.color{
     background-color: antiquewhite;
+}
+.woman-size{
+    height: 350px;
+    width: 280px;
+    margin-left:33px;
 }
