@@ -9,3 +9,15 @@ body{
     width: 280px;
     margin-left:33px;
 }
+.man-size{
+    height: 350px;
+    width: 280px;
+    margin-left:33px;
+}
+.card-footer{
+    border: 0;
+    background-color: white;
+}
+.btn{
+    margin-left: 150px;
+}
