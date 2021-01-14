@@ -21,3 +21,10 @@ body{
 .butn{
     margin-left: 150px;
 }
+.bg{
+    background-color:white;
+    border-radius: 5px;
+}
+.foot{
+    text-align: center;
+}
